@@ -7,7 +7,7 @@ O sistema Web Driver foi projetado com três perfis de usuários distintos, cada
 
 ---
 
-### 👤 -> Usuário Comum
+###  -> Usuário Comum
 
 O perfil de **usuário comum** tem acesso apenas às informações que ele mesmo gerencia. Suas ações são voltadas para o gerenciamento de arquivos pessoais.
 
@@ -19,3 +19,19 @@ O perfil de **usuário comum** tem acesso apenas às informações que ele mesmo
 - Compartilhar arquivos com outros usuários.
 - Abrir solicitações de suporte técnico.
 
+###  -> Empresa
+
+O perfil **empresa** tem como objetivo gerenciar e monitorar os arquivos enviados por seus funcionários. Essa função é restrita à visualização e acompanhamento dos dados produzidos pelos colaboradores.
+
+#### Funcionalidades disponíveis:
+- Listar arquivos dos funcionários vinculados à empresa.
+
+###  -> Administrador
+
+O **administrador** possui controle total sobre os dados da plataforma, podendo visualizar, editar, inserir ou remover arquivos de qualquer usuário do sistema.
+
+#### Funcionalidades disponíveis:
+- Listar todos os arquivos do sistema.
+- Inserir novos arquivos (de qualquer usuário).
+- Atualizar qualquer arquivo.
+- Excluir arquivos com base no ID.
